@@ -14,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshugiri-official&show_icons=true&locale=en&layout=compact" alt="priyanshugiri-official" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshugiri-official&" alt="priyanshugiri-official" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshugiri-official&" alt="priyanshugiri-official" /></p>
